@@ -3,7 +3,7 @@
 
 <h4 align="center">🌲🧠 Proyecto de Drones Autónomos e Inteligencia Artificial para Mejoras Agrícolas y Medioambientales: <a href="http://hermes-ia.com/" target="_blank" color="333B4B">Hermes IA</a> </h4>
 
-<p align="center"> <a href="www.linkedin.com/in/carlos-escolar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="carluzox1999"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/carlos-escolar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="hectorolisan"/> </a> </p>
 
 <hr/>
 <p align="center">
