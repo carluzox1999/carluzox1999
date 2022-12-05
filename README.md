@@ -2,7 +2,7 @@
 <h3 align="center">Programador Web Junior con muchas ganas de aprender 🤘</h3>
 
 <p align="center"> <a href="https://twitter.com/carluzox99" target="blank"><img src="https://img.shields.io/twitter/follow/carluzox99?logo=twitter&style=for-the-badge" alt="carluzox99" /></a> </p>
-<p align="center"> <a href="https://linkedin.com/carlos-escolar/" target="blank"><img src="https://img.shields.io/linkedin/follow/carlos-escolar?logo=linkedin&style=for-the-badge" alt="carlos-escolar" /></a> </p>
+<p align="center" dir="auto"> <a href="https://linkedin.com/in/carlos-escolar/" rel="nofollow"><img src="https://camo.githubusercontent.com/de79f40e37c339588bad3a6e076735d646a3e039cd498e98a328b8d4d48cd227/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3333334234423f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="carlos-escolar" data-canonical-src="https://img.shields.io/badge/LinkedIn-333B4B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> </p>
 
 - Actualmente estoy aprendiendo Desarrollo Web **Utilizo PHP, MySQL, Servidor XAMPP.**
 
