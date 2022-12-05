@@ -10,8 +10,8 @@
 
 - 📫 Como llegar a mi **carlosescolar99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/carluzox99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carluzox99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlos-escolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-escolar" height="30" width="40" /></a>
 <a href="https://es.stackoverflow.com/users/308501/carluzox1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="308501/carluzox1999" height="30" width="40" /></a>
