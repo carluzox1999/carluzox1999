@@ -1,13 +1,10 @@
 <h1 align="center">Muy buenas 👋 Me llamo Carlos Escolar</h1>
 <h3 align="center">Programador Web Junior con muchas ganas de aprender 🤘</h3>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://twitter.com/carluzox99" target="blank"><img src="https://img.shields.io/twitter/follow/carluzox99?logo=twitter&style=for-the-badge" alt="carluzox99" /></a> </p>
 <p align="center" dir="auto"> <a href="https://linkedin.com/in/carlos-escolar/" rel="nofollow"><img src="https://camo.githubusercontent.com/de79f40e37c339588bad3a6e076735d646a3e039cd498e98a328b8d4d48cd227/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3333334234423f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="carlos-escolar" data-canonical-src="https://img.shields.io/badge/LinkedIn-333B4B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/carluzox99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carluzox99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carlos-escolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-escolar" height="30" width="40" /></a>
 <a href="https://es.stackoverflow.com/users/308501/carluzox1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="308501/carluzox1999" height="30" width="40" /></a>
 <a href="https://instagram.com/carluzox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carluzox" height="30" width="40" /></a>
 </p>
