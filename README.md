@@ -9,6 +9,8 @@
 <a href="https://instagram.com/carluzox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carluzox" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 - Actualmente estoy aprendiendo Desarrollo Web **Utilizo PHP, MySQL, Servidor XAMPP.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en -> [https://github.com/carluzox1999?tab=repositories](https://github.com/carluzox1999?tab=repositories)
