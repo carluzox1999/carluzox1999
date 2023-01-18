@@ -23,8 +23,10 @@
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carluzox1999&show_icons=true&theme=merko&locale=en&layout=compact" alt="carluzox1999" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=carluzox1999&show_icons=true&theme=merko&locale=en&layout=compact" alt="carluzox1999" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carluzox1999&show_icons=true&theme=merko&locale=en" alt="carluzox1999" /></p>
+<!-- <p align="center"><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carluzox1999&theme=react&line_height=40&hide=css"/> </a></p> -->
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carluzox1999&show_icons=true&theme=merko&locale=en" alt="carluzox1999" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carluzox1999&theme=dark" alt="carluzox1999" /></p>
